@@ -1,0 +1,11 @@
+thead {
+    /* 显示为表头组 */
+    display: table-header-group;
+    /* 垂直对齐方式为中间 */
+    vertical-align: middle;
+    /* 继承边框颜色 */
+    border-color: inherit;
+    /* 设置背景颜色为古董白色 */
+    background-color: rgb(207, 75, 35);
+}
+
