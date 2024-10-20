@@ -1,0 +1,89 @@
+/*
+selector{
+	property:value;
+}
+
+font-family: 'Nerko One', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Texturina', serif;
+*/
+
+body{
+	/* background-color: #f7cbd5; */
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: large; 
+	
+}
+
+/* the . targets the class word in the <div> tags */
+.menu{
+	margin: auto; /*centre the div */	
+	width:80%;  /*and only make it 80% of webpage */	
+	background-color: #f7cbd5;  /* gave it a colour */	
+	height: 50px; /* gave it a height */	
+	margin-top:5px;
+	margin-bottom: 5px;
+	padding-top: 5px;
+	padding-bottom:15px;
+}
+.header{
+	font-family: 'Texturina', serif;
+	margin: auto;
+	width:80%;
+	background-color: white;
+	height: 250px;
+	padding-top:20px;
+	border: 2px solid  black;
+	
+}
+.main{
+	margin:auto;
+	width:80%;
+	background-color: #f7cbd5;
+	height: auto;
+	padding-top: 5px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.footer{
+	margin:auto;
+	width:80%;
+	background-color: #2d62b9;
+	color: white;
+	height: 40px; 
+}
+
+/* this is Davids menu styling */
+ul {
+	text-align:center;
+}
+a {
+	
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	/* margin: 40px; */
+	background-color: #2d62b9; 
+	padding: 5px;
+	
+}
+li{
+	display:inline;
+}
+a:hover  {
+	background-color: purple;
+	color: red;
+}
+
+
+
+img{
+	height: 200px;
+	width: 200px;
+	/* border: 2px solid  #e6ffff; */
+	border-radius: 5px; /*rounded corner*/
+	/* border-radius: 50%; makes a circle */
+
+}
