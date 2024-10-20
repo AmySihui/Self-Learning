@@ -12,6 +12,6 @@ public interface USB {
         System.out.println("Static method");
     }
 
-    public static final int num = 1;
+    public static final int NUM = 1;
 
 }
