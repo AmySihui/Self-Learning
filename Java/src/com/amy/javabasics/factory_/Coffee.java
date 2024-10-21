@@ -1,4 +1,4 @@
-package com.amy.javabasics;
+package com.amy.javabasics.factory_;
 
 /**
  * @author Amy Wang

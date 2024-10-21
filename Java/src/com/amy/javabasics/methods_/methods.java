@@ -1,6 +1,6 @@
-package com.amy.javabasics;
+package com.amy.javabasics.methods_;
 
-import static com.amy.javabasics.printMessages.print;
+import static com.amy.javabasics.methods_.printMessages.print;
 
 /**
  * @author Amy Wang

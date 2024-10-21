@@ -1,4 +1,4 @@
-package com.amy.javabasics;
+package com.amy.javabasics.interface_;
 
 /**
  * @author Amy Wang
