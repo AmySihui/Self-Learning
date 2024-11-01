@@ -36,10 +36,10 @@ public class Test02 {
             }
         }
 
-        ArrayList<String> list = getInfos(firstNameList, boyNameList, girlNameList, 20, 20);
+        ArrayList<String> list = getInfos(firstNameList, boyNameList, girlNameList, 5, 5);
         Collections.shuffle(list);
 
-        FileUtil.writeLines(list,"names.txt","UTF-8");
+        FileUtil.writeLines(list,"C:\\Users\\hamba\\Desktop\\desnames.txt","UTF-8");
 
 
     }
